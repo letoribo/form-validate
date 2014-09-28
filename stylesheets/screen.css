@@ -1,0 +1,80 @@
+/* Welcome to Compass.
+ * In this file you should write your main styles. (or centralize your imports)
+ * Import this file using the following HTML or equivalent:
+ * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+/* line 5, c:/Heroku/ruby-1.9.3/lib/ruby/gems/1.9.1/gems/compass-core-1.0.1/stylesheets/compass/reset/_utilities.scss */
+
+/*компас добавляет белую рамку вокруг картинок в спрайте
+поэтому использовал отдельные*/
+
+
+/* line 144, icons/*.png */
+.icons-sprite, .icons-ActiveMenuItem, .icons-BackToMainlevelMenu3, .icons-Envilope, .icons-Layer11copy, .icons-Layer8, .icons-Line, .icons-OpenClosesectionicon, .icons-UsersIcon, .icons-_99, .icons-circle, .icons-helpicon, .icons-invalid, .icons-valid {
+  background-image: url('/images/icons-s614da243fe.png');
+  background-repeat: no-repeat;
+}
+
+/* line 84, c:/Heroku/ruby-1.9.3/lib/ruby/gems/1.9.1/gems/compass-core-1.0.1/stylesheets/compass/utilities/sprites/_base.scss */
+.icons-ActiveMenuItem {
+  background-position: 0 0;
+}
+
+/* line 84, c:/Heroku/ruby-1.9.3/lib/ruby/gems/1.9.1/gems/compass-core-1.0.1/stylesheets/compass/utilities/sprites/_base.scss */
+.icons-BackToMainlevelMenu3 {
+  background-position: 0 -26px;
+}
+
+/* line 84, c:/Heroku/ruby-1.9.3/lib/ruby/gems/1.9.1/gems/compass-core-1.0.1/stylesheets/compass/utilities/sprites/_base.scss */
+.icons-Envilope {
+  background-position: 0 -51px;
+}
+
+/* line 84, c:/Heroku/ruby-1.9.3/lib/ruby/gems/1.9.1/gems/compass-core-1.0.1/stylesheets/compass/utilities/sprites/_base.scss */
+.icons-Layer11copy {
+  background-position: 0 -68px;
+}
+
+/* line 84, c:/Heroku/ruby-1.9.3/lib/ruby/gems/1.9.1/gems/compass-core-1.0.1/stylesheets/compass/utilities/sprites/_base.scss */
+.icons-Layer8 {
+  background-position: 0 -82px;
+}
+
+/* line 84, c:/Heroku/ruby-1.9.3/lib/ruby/gems/1.9.1/gems/compass-core-1.0.1/stylesheets/compass/utilities/sprites/_base.scss */
+.icons-Line {
+  background-position: 0 -108px;
+}
+
+/* line 84, c:/Heroku/ruby-1.9.3/lib/ruby/gems/1.9.1/gems/compass-core-1.0.1/stylesheets/compass/utilities/sprites/_base.scss */
+.icons-OpenClosesectionicon {
+  background-position: 0 -109px;
+}
+
+/* line 84, c:/Heroku/ruby-1.9.3/lib/ruby/gems/1.9.1/gems/compass-core-1.0.1/stylesheets/compass/utilities/sprites/_base.scss */
+.icons-UsersIcon {
+  background-position: 0 -123px;
+}
+
+/* line 84, c:/Heroku/ruby-1.9.3/lib/ruby/gems/1.9.1/gems/compass-core-1.0.1/stylesheets/compass/utilities/sprites/_base.scss */
+.icons-_99 {
+  background-position: 0 -149px;
+}
+
+/* line 84, c:/Heroku/ruby-1.9.3/lib/ruby/gems/1.9.1/gems/compass-core-1.0.1/stylesheets/compass/utilities/sprites/_base.scss */
+.icons-circle {
+  background-position: 0 -156px;
+}
+
+/* line 84, c:/Heroku/ruby-1.9.3/lib/ruby/gems/1.9.1/gems/compass-core-1.0.1/stylesheets/compass/utilities/sprites/_base.scss */
+.icons-helpicon {
+  background-position: 0 -174px;
+}
+
+/* line 84, c:/Heroku/ruby-1.9.3/lib/ruby/gems/1.9.1/gems/compass-core-1.0.1/stylesheets/compass/utilities/sprites/_base.scss */
+.icons-invalid {
+  background-position: 0 -193px;
+}
+
+/* line 84, c:/Heroku/ruby-1.9.3/lib/ruby/gems/1.9.1/gems/compass-core-1.0.1/stylesheets/compass/utilities/sprites/_base.scss */
+.icons-valid {
+  background-position: 0 -214px;
+}
